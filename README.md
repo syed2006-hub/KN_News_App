@@ -20,7 +20,8 @@ NewsKN is a beautiful and responsive Flutter news app that delivers the latest a
 
 | Home Page | Article Detail |
 |-----------|----------------|
-| ![Home Page](assets/screenshots/home.png) | ![Detail Page](assets/screenshots/detail.png) |
+
+| ![plash screen](assets/screenshots/home.png) | ![Home Page](assets/screenshots/home.png) | ![Detail Page](assets/screenshots/detail.png) |
 
 > 📌 Make sure to replace the image paths with actual image locations in your repo.
 
