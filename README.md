@@ -1,16 +1,35 @@
-# knownow
+# 🗞️ NewsKN - Flutter News App
 
-A new Flutter project.
+NewsKN is a beautiful and responsive Flutter news app that delivers the latest articles by category or custom search. It uses the [GNews API](https://gnews.io) to fetch news content and provides an elegant UI with category filters, image-based article cards, shimmer loading, and search functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Search bar to query news by keywords
+- 📂 Category selector with smooth UI switching
+- 📄 Full article detail view
+- 🖼️ Shimmer effect while loading
+- 🔁 Pull-to-refresh for updates
+- 🌐 Dynamic fetching from GNews API
+- 📱 Mobile-friendly and responsive design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Home Page | Article Detail |
+|-----------|----------------|
+| ![Home Page](assets/screenshots/home.png) | ![Detail Page](assets/screenshots/detail.png) |
+
+> 📌 Make sure to replace the image paths with actual image locations in your repo.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/newskn.git
+cd newskn
